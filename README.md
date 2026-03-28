@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyanshu
 
-<!--
-**priyanshukataria1208-ui/priyanshukataria1208-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | Building Real-World Projects
+🤖 Currently Learning AI & Exploring Smart Solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm Doing
+
+* 💻 Building full-stack web applications using MERN
+* 🤖 Learning AI and integrating it into real projects
+* 🚀 Working on AI Study App (Personal Tutor for Students)
+
+---
+
+## 🧠 Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools:** Firebase, Git, GitHub
+* **AI:** OpenAI API (Learning & Building)
+
+---
+
+## 💥 Projects
+
+* 🍽️ Restaurant Ordering System (QR based ordering + payment)
+* 🤖 AI Study App (In Progress)
+
+---
+
+## 📈 Goals
+
+* Build my own AI Startup
+* Earn through skills & projects
+* Become financially independent
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/priyanshukataria1208-ui
+
